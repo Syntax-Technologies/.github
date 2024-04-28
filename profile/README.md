@@ -1,12 +1,18 @@
-## Hi there 👋
+<img alt="Discord" src="https://img.shields.io/discord/1027216161798103141">
 
-<!--
+```python
+print(f'Follow us on Github')
+```
 
-**Here are some ideas to get you started:**
+```python
+The smallest Development group!
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```javascript
+Projects: Zyntiq, Eclipse
+```
+
+<a href="https://dsc.gg/syntaxtech" target="_blank" img src="https://cdn.discordapp.com/attachments/1229521521555280004/1229740839656226817/standard.gif?ex=662f76e7&is=662e2567&hm=810b54791d9624b2e23475dbc334c690a5e978d6a3a53593ab7742297ae31405&">
+
+
+![Logo](https://cdn.discordapp.com/attachments/1229521521555280004/1229740839656226817/standard.gif?ex=662f76e7&is=662e2567&hm=810b54791d9624b2e23475dbc334c690a5e978d6a3a53593ab7742297ae31405&)
